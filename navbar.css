@@ -1,0 +1,27 @@
+nav>a:hover
+{
+    border-radius: 3px;
+    background:rgb(128, 128, 128);
+}
+
+a:hover
+{
+    border-radius: 3px;
+    background:rgb(105, 103, 103);
+    
+}
+
+.neha
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI';
+    color: white;
+    margin-left: 3%;
+    font-size: 4vw;
+}
+@media all and (max-width:572px)
+{
+    .neha
+    {
+        font-size: 30px;
+    }
+}

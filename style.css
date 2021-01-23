@@ -1,0 +1,575 @@
+body
+{
+   background:url('background.gif');
+}
+.firstCon
+{
+    text-align:center;
+    font-family: 'PT Sans',sans-serif;
+    background-image: url('background.gif');
+    height: 100%;
+}
+#project
+{
+  
+}
+.img
+{  
+  margin-top: 17%;
+}
+#abc::before
+{ 
+    display: flex; 
+    justify-content: center;
+    margin-top:-50px; 
+    color:white;
+    font-family: cursive;
+    content: "Web Developer"; 
+    animation: animate infinite 7s; 
+    padding-left: 10px; 
+    text-align: center;
+    font-size:35px;
+
+} 
+@keyframes animate { 
+  
+    0% { 
+        content: "Web Developer"; 
+    } 
+
+    50% 
+    { 
+        content: "Java Programmer"; 
+    }
+}
+.connect
+{
+    
+
+    font-size: 40px;
+    color: white;
+    
+    border-radius: 50%;
+    padding:5px;
+    text-align: center;
+    margin:7px;
+   
+}
+.connect:hover
+{
+    background-color:teal;
+}
+a:hover
+{
+text-decoration: none;
+color: white;
+}
+
+.one 
+{
+  text-align:center;
+  font-family: 'PT Sans',sans-serif;
+  margin-top: -40px;
+  
+}
+.image
+{
+    display: grid;
+    grid-gap: 5%;
+    grid-template-columns: repeat(2,2fr);
+    text-align: left;
+    font-family: 'PT Sans',sans-serif;
+}
+.profileimg
+{
+    width:60%;
+    border-radius: 20%;
+    margin-left:20%;
+    
+}
+.heading1
+{
+    font-size:4vw;
+    margin-bottom:3%;
+    font-weight: bold;
+    background-image: url('header.gif');
+    width: 40%;
+    color: white;
+    padding: 5px;
+    font-family: cursive;
+    margin-left:2%;
+    border-radius: 3px;
+    margin-top: -2%;
+}
+.content1
+{
+    margin-top:20px;
+    font-size:20px;
+    font-family: 'PT Sans',sans-serif;
+    margin-bottom: 8%;    
+    
+}
+.intro
+{
+    padding: 10px;
+    background-image: url('background.gif');
+    word-spacing: 4px;
+    font-family: Sans-serif;
+    color:white;
+    margin: 20px;
+    margin-right:10%;
+    margin-top: 0px;
+}
+.cv
+{
+    border:none;
+    background-color: white;
+    width:200px;
+    font-size: 24px;
+    height:50px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+
+ .skillsHeading
+ {
+     font-family: cursive;
+     font-size:4vw;
+     margin:30px;
+     background-image:url('header.gif');
+     width: 27%;
+     color:white;
+     padding-left:14px;
+ }
+ .skills {
+    box-sizing: border-box;
+  }
+  
+  .skills {
+    background-image: url('background.gif');
+  }
+  .lang 
+  {
+      font-family:cursive;
+      text-align: center;
+      font-weight: bold;
+      color:white;
+  }
+  .icon 
+  {
+      font-size: 35px;
+      text-align: center;
+      color: white;
+  }
+  /* Center website */
+  .main {
+    max-width: 1000px;
+    margin: auto;
+    
+  }
+  
+  h1 {
+    font-size: 50px;
+    word-break: break-all;
+  }
+  
+  .row {
+    margin: 8px;
+   margin-left: 80px;
+    
+  }
+  
+  /* Add padding BETWEEN each column */
+  .row,
+  .row > .column {
+    padding: 8px;
+  }
+  
+  /* Create four equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 19%;
+    
+  }
+  
+  /* Clear floats after rows */ 
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  img
+  {
+  background-color:white;
+  }
+ 
+  /* Content */
+  .content {
+   
+    padding: 10px;
+    margin-right: 40px;
+    
+  }
+  .row1
+  {
+    margin: 8px;
+    margin-left: 250px;
+  }
+  .column1
+  {
+    float: left;
+    width: 25%;
+  }
+  .row2
+  {
+    margin: 8px;
+    margin-left: 340px;
+  }
+  .column2
+  {
+    float: left;
+    width: 29%;
+  }
+  .row3
+  {
+    margin: 8px;
+   margin-left:4%;
+  }
+  .column3
+  {
+    float: left;
+    width: 100%;
+  }
+  .div4
+  {
+    background-color: white;
+  }
+  #lang:hover ,span
+{
+  opacity: 0.5;
+content: "70%";
+color:whitesmoke;
+}
+.currentLearning
+{
+    font-size: 55px;
+    font-family: cursive;
+    text-align: center;
+}
+.card 
+{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 330px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+   
+  }
+  .card:hover 
+  {
+    box-shadow: 6px 8px 6px 6px black;
+    max-width: 350px;
+  }
+  .learning 
+  {
+    font-size:30px;
+  }
+  .learn 
+  {
+      font-size:30px;
+      line-height: 3.2rem;
+      font-family: Comic Sans MS;
+      margin-top: -10px;
+  }
+  .projects
+{
+    background-image: url('background.gif');
+    color:white;
+    height:100%;
+}
+.container1
+{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.card1 {
+  
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: white;
+    color: black;
+    height: 100%;
+  }
+  
+  .card1:hover
+  {
+    box-shadow: 0 8px 6px 6px gray;
+    max-width: 330px;
+  }
+  
+  .card1 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card1 button:hover {
+    opacity: 0.7;
+   
+  }
+
+  /*Contact section*/
+.content-header{
+  font-family: 'Oleo Script', cursive;
+  color:#fcc500;
+  font-size: 45px;
+}
+
+.section-content{
+  text-align: center; 
+
+}
+#contact{
+    
+    font-family: sans-serif;
+  padding-top: 60px;
+  width: 100%;
+  width: 100vw;
+ background-color: white; 
+ 
+}
+.contact-section{
+  padding-top: 40px;
+}
+.contact-section .col-md-6{
+  width: 50%;
+  
+}
+
+.form-group
+{
+  margin-top: 10px;
+}
+label
+{
+  font-size: 1.3em;
+  line-height: 1em;
+  font-weight: bold;
+}
+.form-control
+{
+  font-size: 1.3em;
+  color: #080808;
+}
+textarea.form-control {
+    height: 135px;
+    float:right;
+}
+
+.submit{
+  font-size: 1.1em;
+  margin-top: 15px;
+  width: 200px;
+  color: #fff;
+}
+
+/*end of contact section */
+#last
+{
+  display: none;
+}
+#detailTable
+{
+  background-color:white;
+}
+.thanks
+{
+    font-size: 3.3vw;
+    font-family: cursive;
+    font-weight: bold;
+}
+.c1
+{
+    position: relative;
+    animation-name: changebg;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    background-color: rgb(255, 102, 102);
+    border-radius: 5px;
+}
+.page
+{
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+@keyframes changebg
+{
+    0%   
+    {
+        background-color:rgb(133, 224, 133); 
+    }
+    25%  
+    {
+        background-color:rgb(255, 193, 77);
+    }
+    50% 
+    {
+        background-color:rgb(128, 128, 255); 
+    }
+    75%  
+    {
+        background-color:rgb(255, 191, 128); 
+    }
+    100% 
+    {
+        background-color:rgb(255, 102, 102); 
+    }
+}
+  @media all and (max-width:950px)
+ {
+     
+     .image
+     {
+        display: block
+     }
+     .column {
+        width: 25%;
+      }
+      .row
+       {
+          margin:16px;
+       }
+        .row1 
+        {
+            margin-left:60px;
+        }
+    .column1
+    {
+        float: left;
+        width: 33%;
+    } 
+    .row2
+  {
+    margin: 8px;
+    margin-left: 250px;
+  }
+  .column2
+  {
+    float: left;
+    width: 50%;
+  }
+
+  .container1
+    {
+      display: grid;
+      align-items: center;
+      grid-template-columns: repeat(1,auto);
+    }
+    .card1
+    {
+      height: 190%;
+    }
+    .card12
+    {
+      display: none;
+    }
+    #contact
+      {
+        margin-top: 450px;
+      }
+ }
+ 
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 710px) {
+    .column {
+      width: 33%;
+    }
+    .row2
+    {
+      margin: 8px;
+      margin-left: 180px;
+    }
+    .column2
+    {
+      float: left;
+      width: 40%;
+    }
+  
+  }
+  @media screen and (max-width: 580px) {
+    .column {
+      width: 50%;
+    }
+    .row1
+      {
+        margin: 8px;
+        margin-left: 40px;
+      }
+    .column1 {
+        width: 50%;
+      }
+      .row2
+      {
+        margin: 8px;
+        margin-left: 75px;
+      }
+      .column2
+      {
+        float: left;
+        width:50%;
+      }
+      .dbms
+      {
+        margin-left: 110px;
+      }
+      #database:before {
+        content:"\a\a\a\a";
+        white-space: pre;
+    }
+    
+  }
+  @media screen and (max-width: 410px) {
+      .row
+      {
+          margin-left: 100px;
+      }
+    .column {
+      width: 100%;
+    }
+    .row1 {
+          
+        margin-left:100px;
+      }
+    .column1 {
+        width: 100%;
+       
+      }
+      .dbms
+      {
+        margin-left: 0px;
+      }
+      .row2
+      {
+        margin: 8px;
+        margin-left: 110px;
+      }
+      .column2
+      {
+        float: left;
+        width: 100%;
+      }
+    
+  }
