@@ -270,7 +270,7 @@ color:whitesmoke;
   .card:hover 
   {
     box-shadow: 6px 8px 6px 6px black;
-  
+  max-width: 300px;
   }
   .learning 
   {
@@ -310,7 +310,7 @@ color:whitesmoke;
   .card1:hover
   {
     box-shadow: 0 8px 6px 6px gray;
-    max-width: 330px;
+  
   }
   
   .card1 button {
