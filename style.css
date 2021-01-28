@@ -270,7 +270,7 @@ color:whitesmoke;
   .card:hover 
   {
     box-shadow: 6px 8px 6px 6px black;
-  max-width: 300px;
+    max-width: 350px;
   }
   .learning 
   {
@@ -310,7 +310,6 @@ color:whitesmoke;
   .card1:hover
   {
     box-shadow: 0 8px 6px 6px gray;
-  
   }
   
   .card1 button {
@@ -478,10 +477,7 @@ textarea.form-control {
       align-items: center;
       grid-template-columns: repeat(1,auto);
     }
-    .card1
-    {
-      height: 190%;
-    }
+    
     .card12
     {
       display: none;
@@ -570,5 +566,6 @@ textarea.form-control {
       {
         float: left;
         width: 100%;
-      } 
+      }
+    
   }
