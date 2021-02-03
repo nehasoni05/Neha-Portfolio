@@ -108,7 +108,7 @@ function mysql(x)
 }
 function oracle(x)
 {
-    x.src="./images/oracle-database.png";
+    x.src="./images/dblogo.jfif";
 }
 function github(x)
 {
