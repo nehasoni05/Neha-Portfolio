@@ -63,7 +63,7 @@ function c_e(x)
 }
 function c(x)
 {
-    x.src="./images/c.png";
+    x.src="./images/C.png";
 }
 function html_e(x)
 {
