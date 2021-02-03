@@ -1,16 +1,14 @@
 body
 {
-   background:url('background.gif');
+  background-image: url('./images/background.gif');
+   
 }
 .firstCon
 {
     text-align:center;
     font-family: 'PT Sans',sans-serif;
-    background-image: url('background.gif');
+    background-image: url('./images/background.gif');
     height: 100%;
-}
-#project
-{
   
 }
 .img
@@ -92,7 +90,7 @@ color: white;
     font-size:4vw;
     margin-bottom:3%;
     font-weight: bold;
-    background-image: url('header.gif');
+    background-image: url('./images/header.gif');
     width: 40%;
     color: white;
     padding: 5px;
@@ -112,7 +110,7 @@ color: white;
 .intro
 {
     padding: 10px;
-    background-image: url('background.gif');
+    background-image: url('./images/background.gif');
     word-spacing: 4px;
     font-family: Sans-serif;
     color:white;
@@ -138,18 +136,17 @@ color: white;
      font-family: cursive;
      font-size:4vw;
      margin:30px;
-     background-image:url('header.gif');
+     background-image:url('./images/header.gif');
      width: 27%;
      color:white;
      padding-left:14px;
  }
- .skills {
+ .skills
+{
     box-sizing: border-box;
-  }
+}
   
-  .skills {
-    background-image: url('background.gif');
-  }
+
   .lang 
   {
       font-family:cursive;
@@ -285,7 +282,7 @@ color:whitesmoke;
   }
   .projects
 {
-    background-image: url('background.gif');
+    background-image: url('./images/background.gif');
     color:white;
     height:100%;
 }
