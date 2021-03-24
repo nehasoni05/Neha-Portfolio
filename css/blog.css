@@ -5,7 +5,7 @@ box-sizing: border-box;
 body
 {
     padding: 20px;
-    background-image: url('./images/blogbackground.jpg');
+    background-image: url('../images/blogbackground.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
