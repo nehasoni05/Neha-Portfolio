@@ -51,66 +51,66 @@ function fun()
 
 function java_e(x)
 {
-    x.src="./images/java_e.jpg";
+    x.src="../images/java_e.jpg";
 }
 function java(x)
 {
-    x.src="./images/java.png";
+    x.src="../images/java.png";
 }
 function c_e(x)
 {
-    x.src="./images/c_e.jpg";
+    x.src="../images/c_e.jpg";
 }
 function c(x)
 {
-    x.src="./images/C.png";
+    x.src="../images/C.png";
 }
 function html_e(x)
 {
-    x.src="./images/html_e.jpg";
+    x.src="../images/html_e.jpg";
 }
 function html(x)
 {
-    x.src="./images/html5.jpg";
+    x.src="../images/html5.jpg";
 }
 
 function css_e(x)
 {
-    x.src="./images/css_e.jpg";
+    x.src="../images/css_e.jpg";
 }
 function css(x)
 {
-    x.src="./images/css.webp";
+    x.src="../images/css.webp";
 }
 function js(x)
 {
-    x.src="./images/JavaScript-Logo.png";
+    x.src="../images/JavaScript-Logo.png";
 }
 function oops(x)
 {
-    x.src="./images/oops.jpg";
+    x.src="../images/oops.jpg";
 }
 function ds_e(x)
 {
-    x.src="./images/ds_e.jpg";
+    x.src="../images/ds_e.jpg";
 }
 function ds(x)
 {
-    x.src="./images/data-structures.jpg";
+    x.src="../images/data-structures.jpg";
 }
 function dbms(x)
 {
-    x.src="./images/dbms.jpg";
+    x.src="../images/dbms.jpg";
 }
 function mysql(x)
 {
-    x.src="./images/mysql.png";
+    x.src="../images/mysql.png";
 }
 function oracle(x)
 {
-    x.src="./images/dblogo.jfif";
+    x.src="../images/dblogo.jfif";
 }
 function github(x)
 {
-    x.src="./images/GitHub-Mark.png";
+    x.src="../images/GitHub-Mark.png";
 }
