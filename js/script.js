@@ -59,7 +59,7 @@ function java(x)
 }
 function c_e(x)
 {
-    x.src="../images/c_e.jpg";
+    x.src="./images/c_e.jpg";
 }
 function c(x)
 {
