@@ -1,13 +1,13 @@
 body
 {
-  background-image: url('./images/background.gif');
+  background-image: url('../images/background.gif');
    
 }
 .firstCon
 {
     text-align:center;
     font-family: 'PT Sans',sans-serif;
-    background-image: url('./images/background.gif');
+    background-image: url('../images/background.gif');
     height: 100%;
   
 }
@@ -90,7 +90,7 @@ color: white;
     font-size:4vw;
     margin-bottom:3%;
     font-weight: bold;
-    background-image: url('./images/header.gif');
+    background-image: url('../images/header.gif');
     width: 40%;
     color: white;
     padding: 5px;
@@ -110,7 +110,7 @@ color: white;
 .intro
 {
     padding: 10px;
-    background-image: url('./images/background.gif');
+    background-image: url('../images/background.gif');
     word-spacing: 4px;
     font-family: Sans-serif;
     color:white;
@@ -136,7 +136,7 @@ color: white;
      font-family: cursive;
      font-size:4vw;
      margin:30px;
-     background-image:url('./images/header.gif');
+     background-image:url('../images/header.gif');
      width: 27%;
      color:white;
      padding-left:14px;
@@ -282,7 +282,7 @@ color:whitesmoke;
   }
   .projects
 {
-    background-image: url('./images/background.gif');
+    background-image: url('../images/background.gif');
     color:white;
     height:100%;
 }
