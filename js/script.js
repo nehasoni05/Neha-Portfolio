@@ -51,7 +51,7 @@ function fun()
 
 function java_e(x)
 {
-    x.src="../images/java_e.jpg";
+    x.src=".../images/java_e.jpg";
 }
 function java(x)
 {
